@@ -9,6 +9,11 @@ This repository hosts a Jupyter Notebook showcasing a branched neural network mo
 
 ---
 
+## Branched Neural Network Diagram
+![Screenshot1](./Branched_Neural_Network_Diagram.png)
+
+---
+
 ## Setup
 
 The Jupyter Notebook for this project is named `attrition.ipynb`. Ensure you have the required dependencies installed before proceeding.
