@@ -1,4 +1,4 @@
-# Employee Attrition & Department Prediction: Convolutional Branching Neural Network
+# Employee Attrition & Department Prediction: Branching Neural Network
 
 ## Summary
 
