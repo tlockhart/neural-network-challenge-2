@@ -1,15 +1,15 @@
-# Employee Attrition & Department Prediction: Branching Neural Network
+# Employee Attrition & Department Prediction: Branched Multi-Layer Perceptron (MLP) Neural Network
 
 ## Summary
 
-This repository hosts a Jupyter Notebook showcasing a branched neural network model designed to assist HR in two predictive tasks:
+This repository hosts a Jupyter Notebook showcasing a branched machine learning model designed to assist HR in two predictive tasks:
 
 1. **Employee Attrition Prediction**: Predicting whether employees are likely to leave the company.
 2. **Department Recommendation**: Identifying the department where an employee may be better suited.
 
 ---
 
-## Branched Neural Network Diagram
+## Branched Multi-Layer Perceptron (MLP) Neural Network Diagram
 ![Screenshot1](./Branched_Neural_Network_Diagram.png)
 
 ---
